@@ -12,7 +12,7 @@ What should have happened?
 #Actual Result
 What actually happened?
 #Environment
-Enviroment details, Staging, Production, etc.
+Environments details, Staging, Production, etc.
 Browser, OS, etc.
 Device, etc.
 #Severity
