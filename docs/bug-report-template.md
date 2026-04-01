@@ -1,21 +1,21 @@
 # Bug Report
-#Title
+# Title
 Descriptive title
-#Description
+# Description
 Explanation of the issue
-#Steps to Reproduce
+# Steps to Reproduce
     1.  
     2.
     3.
-#Expected Result
+# Expected Result
 What should have happened?
-#Actual Result
+# Actual Result
 What actually happened?
-#Environment
+# Environment
 Environments details, Staging, Production, etc.
 Browser, OS, etc.
 Device, etc.
-#Severity
+# Severity
 Low, Medium, High, Critical
-#Attachments
+# Attachments
 Screenshots, etc.
